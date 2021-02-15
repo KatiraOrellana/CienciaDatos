@@ -64,9 +64,9 @@ pull | obtiene los cambios del repositorio general
 ### pasos para enviarlo a la nube
 
 1. git commit -m "Se agrega el archivo animal.py"
-    ![Conceptos principales](img/img1.png)
+    ![Conceptos principales](img/Img1.png)
 2. git push 
-    ![Conceptos principales](img/img2.png)
+    ![Conceptos principales](img/Img2.png)
 
 ### pasos para crear un branch
 
