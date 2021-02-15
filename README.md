@@ -55,8 +55,8 @@ pull | obtiene los cambios del repositorio general
 ### Pasos para agregar un archivo
 
 1. Crear el archivo
-    make <filename>
-2. git add <filename>
+    %make <filename>
+2. git add %<filename>
     
 
 ### pasos para enviarlo a la nube
