@@ -11,6 +11,8 @@ Incluye:
 - Facilita la colaboración
 - Integra cambios  paralelos al mismo código
 
+![Conceptos principales](img/git.jpg)
+
 ### Comandos básicos
 
 Comando | descripción
