@@ -39,14 +39,22 @@ add | añade un archivo o directorio al repositorio
 status | Despliega el status de nuestro repositorio
 checkout | elimina los cambios realizados
 commit | aplica los cambios realizados
+push | Envía los cambios al repositorio general
+pull | obtiene los cambios del repositorio general
 
 
 ### Pasos para iniciar un nuevo repositorio
 
-1.
-2.
-3.
+1. git init
+2. git add README.md
+3. git commit -m "first commit"
+4. git branch -M main
+5. git remote add origin <URL/repositorio.git>
+6. git push -u origin main
 
 ### Pasos para agregar un archivo
+
+1. Crear el archivo
+2. 
 
 ### pasos para enviarlo a la nube
