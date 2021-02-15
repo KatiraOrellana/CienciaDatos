@@ -54,8 +54,9 @@ pull | obtiene los cambios del repositorio general
 
 ### Pasos para agregar un archivo
 
+%% mmd
 1. Crear el archivo
-    %make <filename>
+    make <filename>
 2. git add %<filename>
     
 
