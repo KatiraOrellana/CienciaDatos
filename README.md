@@ -34,11 +34,11 @@ tipos de objetos:
 
 Comando | descripción
 -- | --
-init |
-add |
-status |
-checkout |
-commit |
+init | Inicia un directorio para que trabaje con git
+add | añade un archivo o directorio al repositorio
+status | Despliega el status de nuestro repositorio
+checkout | elimina los cambios realizados
+commit | aplica los cambios realizados
 
 
 ### Pasos para iniciar un nuevo repositorio
