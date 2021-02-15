@@ -88,6 +88,11 @@ pull | obtiene los cambios del repositorio general
 2. git merge gato 
 
   ![Conceptos principales](img/Img4.png)
+  
+3. git commit
+4. git push
+
+
 
    
    
