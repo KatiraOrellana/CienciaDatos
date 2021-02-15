@@ -57,6 +57,16 @@ pull | obtiene los cambios del repositorio general
 1. Crear el archivo
     - make filename
 2. git add filename
+
+
     
 
 ### pasos para enviarlo a la nube
+
+1. git commit -m "Se agrega el archivo animal.py"
+    ![Conceptos principales](img/img1.png)
+2. git push 
+    ![Conceptos principales](img/img2.png)
+
+### pasos para crear un branch
+
