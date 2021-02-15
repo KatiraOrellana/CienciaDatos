@@ -75,4 +75,21 @@ pull | obtiene los cambios del repositorio general
 
   ![Conceptos principales](img/img3.png)
 
+3. Cambiar al branch que se necesita trabajar (gato)
+
+   git checkout gato
+   --> hacer cambios a gato
+   git checkout perro
+   --> hacer cambios a perro
+   
+## pasos para hacer merge de ambos cambios a master
+
+1. git checkout main 
+2. git merge gato 
+
+  ![Conceptos principales](img/Img4.png)
+
+   
+   
+
 
