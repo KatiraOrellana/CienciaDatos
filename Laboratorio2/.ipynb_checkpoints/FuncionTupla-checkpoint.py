@@ -3,11 +3,16 @@ import sys
 def main():
     try:
         elementos = sys.argv[1]
-        print(elementos)
+        lista = []
         a = 1
-        while a <= elementos:
-            lista = lista.append(input('Ingrese registro {} '.format.lista))
+        while a <= int(elementos):
+            valor = input('Ingrese registro {}: '.format(a))
+            lista.append(valor)
             a = a+1
+        salida = ''
+        for a in lista:
+            salida = salida + str(a)
+        print(salida)
     except IndexError as e:
         print('Error: Debe ingresar un parámetro')
     except ValueError as e:

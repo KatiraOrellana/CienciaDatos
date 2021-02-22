@@ -2,13 +2,18 @@ import sys
 
 def main():
     try:
-        elementos = sys.argv[1]
+        listas = sys.argv[1]
+        print(listas)
         lista = []
         a = 1
-        while a <= int(elementos):
-            valor = input('Ingrese registro {}: '.format(a))
-            lista.append(valor)
+        while a <= int(listas):
+            lista.append([])
+            b = 1
+            while b != 0
+                valor = input('Ingrese elemento de la lista {}, si desea terminar la lista, ingrese 0: '.format(a))
+                lista[a].append(valor)
             a = a+1
+        print(lista)
         salida = ''
         for a in lista:
             salida = salida + str(a)
